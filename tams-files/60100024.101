@@ -1,0 +1,42 @@
+OSN 21800
+MSG 601 1ERA. REUNION - SALDOS NETOS POR LOCALIDAD
+TID 0001CLRM1001
+FHE 23/07/24 17:05:08
+FHR 23/07/24 17:05:08
+NSE 21800
+ 18: CANJE IMAGENES
+ 20: 1RA. REUNION  SALDOS NETOS POR LOCAL
+R78: 0024 24072024
+I02:               0               0
+I06:               0               0
+I12:               0               0
+I14:               0               0
+I16:               0               0
+I18:               0               0
+I20:               0               0
+I28:               0               0
+I30:               0               0
+I34:               0               0
+I38:               0               0
+I46:               0               0
+I50:               0               0
+I54:               0               0
+I58:               0               0
+I62:               0               0
+I64:               0               0
+I68:               0               0
+I72:               0               0
+I73:               0               0
+I87:               0               0
+I88:               0               0
+I89:               0               0
+I90:               0               0
+I91:               0               0
+I92:               0               0
+I74:               0               0
+I76:               0               0
+H26:               0               0
+ 79: S/O.- CI
+ENV/CANJE IMAGENES
+AUT/AUTENTICACION CORRECTA
+FIN

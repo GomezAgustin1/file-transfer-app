@@ -1,0 +1,61 @@
+OSN 00008
+MSG 203 CAMARA COMPENSACION -3- DEVOLUC. PROTESTO
+TID 0037CLRM1001
+FHE 16/12/22 11:30:02
+FHR 16/12/22 11:30:02
+NSE 00008
+ 18: Banco Santander
+ 20: CANJE IMAGENES
+ 34: 161222
+I02:       580165259
+I04:               0
+I06:               0
+I08:               0
+I10:               0
+I12:               0
+I14:               0
+I16:               0
+I18:               0
+I20:               0
+I24:               0
+I28:               0
+I30:               0
+I32:               0
+I34:               0
+I36:               0
+I38:               0
+I40:               0
+I42:               0
+I44:               0
+I46:               0
+I48:               0
+I50:               0
+I52:               0
+I54:               0
+I56:               0
+I58:               0
+I60:               0
+I62:               0
+I64:               0
+I66:               0
+I68:               0
+I70:               0
+I72:               0
+I73:               0
+I87:               0
+I88:               0
+I89:               0
+I90:               0
+I91:               0
+I92:               0
+I74:               0
+I76:               0
+I80:               0
+I82:               0
+I84:               0
+I86:               0
+H22:       580165259
+ 79: S/O.- CI
+ENV/CANJE IMAGENES
+AUT/AUTENTICACION CORRECTA
+FIN
