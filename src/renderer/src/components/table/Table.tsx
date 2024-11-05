@@ -68,8 +68,8 @@ const Table = ({ data }: { data: TableDataInterface[] }) => {
             return sortDirection === 'asc' ? msgA - msgB : msgB - msgA
           case 'Institucion':
             return sortDirection === 'asc'
-              ? a.institution.localeCompare(b.institution)
-              : b.institution.localeCompare(a.institution)
+              ? a.institution?.localeCompare(b.institution)
+              : b.institution?.localeCompare(a.institution)
           case 'Area':
             const areaA = Number(a.area)
             const areaB = Number(b.area)

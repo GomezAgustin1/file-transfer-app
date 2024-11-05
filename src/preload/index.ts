@@ -5,19 +5,20 @@ import MessagesService from './messages.service'
 import { InstitutionService } from './institution.service'
 import { join } from 'path'
 import { cwd } from 'process'
+import  log  from 'electron-log'
 
 // const CONFIG_FILE = join(__dirname, '..', '..', '..', '..', '..', '..', 'config.json')
 const CONFIG_FILE = join(cwd(), 'config.json')
 
-export function getConfig() {
-  console.log('CONFIG_FILE:', CONFIG_FILE)
-  // const fileService = new FileService()
-  // const configData = await fileService.getFile(CONFIG_FILE)
-  // const config = JSON.parse(configData)
-  return CONFIG_FILE
-}
 
-export async function messagesFlowHandler() {
+export async function getConfig() {
+   const fileService = new FileService()
+   const configData = await fileService.getFile(CONFIG_FILE)
+   const config = JSON.parse(configData)
+   return [CONFIG_FILE, config]
+  }
+  
+  export async function messagesFlowHandler() {
   try {
     // GET necessary data
     const fileService = new FileService()

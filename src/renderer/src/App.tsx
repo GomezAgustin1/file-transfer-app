@@ -4,10 +4,12 @@ import { mockHeaderData, mockTableData } from './mockdata'
 import './base.css'
 import styled from '@emotion/styled'
 import { TableDataInterface } from './components/table/tableData.interface'
+import  log  from 'electron-log'
+
 
 interface WindowAPI {
   messagesFlowHandler: () => Promise<Array<any>>
-  getConfig: () => string
+  getConfig: () => any
 }
 
 const Title = styled.h1`
@@ -22,17 +24,26 @@ function App(): JSX.Element {
   const [tableData, setTableData] = useState<TableDataInterface[]>(mockTableData)
   const [headerData] = useState(mockHeaderData)
   const [isModalOpen, setIsModalOpen] = useState(false)
-  const [config, setConfig] = useState('')
+  const [config, setConfig] = useState(['1','2'])
 
   const handleModal = () => {
     setIsModalOpen(!isModalOpen)
   }
 
   useEffect(() => {
+    window.addEventListener('error', (event) => {
+      log.error('Error en la interfaz:', event.error)
+    })
+
+    window.addEventListener('unhandledrejection', (event) => {
+      log.error('Error en promesa no manejada:', event.reason)
+    })
+
     handleModal()
 
     const api: WindowAPI = window.api as WindowAPI
     api.messagesFlowHandler().then((messages: Array<any>) => {
+      log.info("MESSAGES: ",messages)
       const transformedMessagesDataForTable: TableDataInterface[] = messages.map((message) => ({
         file: message.filename,
         msg: message.header.msg || 0,
@@ -45,8 +56,10 @@ function App(): JSX.Element {
       }))
       setTableData(transformedMessagesDataForTable)
     })
-
-    setConfig(api.getConfig())
+    api.getConfig().then(res => {
+      console.log('config: ',res)
+      setConfig(res)
+    })
   }, [])
   return (
     <>
@@ -57,7 +70,8 @@ function App(): JSX.Element {
         sessionId={headerData.sessionId}
       />
       <Modal text="Mensajes Sincronizados exitosamente" open={isModalOpen} handleModal={handleModal} />
-      <Title>Monitoreo Mensajería FTI: {config}</Title>
+      <Title>Monitoreo Mensajería FTI: {config[0]}</Title>
+      <p>{JSON.stringify(config[1])}</p>
       <Table data={tableData} />
     </>
   )

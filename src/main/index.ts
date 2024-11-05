@@ -1,7 +1,16 @@
 import { app, shell, BrowserWindow, ipcMain } from 'electron'
-import { join } from 'path'
+import path, { join } from 'path'
 import { electronApp, optimizer, is } from '@electron-toolkit/utils'
 import icon from '../../resources/icon.png?asset'
+import  log  from 'electron-log/main.js'
+
+log.transports.file.resolvePathFn = () => path.join(process.cwd(), 'main.log')
+log.initialize()
+
+log.info('MY INFO LOG')
+process.on('uncaughtException', (error) => {
+  log.error('Error no capturado:', error)
+})
 
 function createWindow(): void {
   // Create the browser window.

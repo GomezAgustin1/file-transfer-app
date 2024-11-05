@@ -71,7 +71,6 @@ class MessagesService {
           this.messages[index].description = ''
         }
       })
-      console.log(2)
       return
     } catch (error) {
       console.error('Error occurred while populating messages description:', error)
