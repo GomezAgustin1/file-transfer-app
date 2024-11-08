@@ -3,3 +3,1521 @@
 [2024-11-05 15:27:27.676] [error] MY ERROR
 [2024-11-05 15:27:27.678] [error] 231423423
 [2024-11-05 15:27:27.680] [error] MY ERROR
+[2024-11-06 12:00:16.678] [info]  MY INFO LOG
+[2024-11-06 12:02:04.693] [info]  MY INFO LOG
+[2024-11-06 12:02:06.123] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 12:02:06.126] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 12:02:06.126] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 12:02:06.127] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 12:03:21.300] [info]  MESSAGES:  null
+[2024-11-06 12:03:21.310] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 12:03:21.310] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 12:03:21.451] [info]  MESSAGES:  null
+[2024-11-06 12:03:21.452] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 12:03:21.452] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:15:56.688] [info]  MESSAGES:  null
+[2024-11-06 15:15:56.689] [info]  MESSAGES:  null
+[2024-11-06 15:15:56.689] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:15:56.689] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:15:56.689] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:15:56.689] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:15:56.690] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:15:56.690] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:15:56.690] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:15:56.690] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:16:22.572] [info]  MY INFO LOG
+[2024-11-06 15:16:22.988] [info]  MESSAGES:  null
+[2024-11-06 15:16:22.990] [info]  MESSAGES:  null
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: Error: Expected property name or '}' in JSON at position 6 (line 2 column 5)
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:16:22.991] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:16:22.992] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:16:22.992] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:16:58.166] [info]  MY INFO LOG
+[2024-11-06 15:16:58.799] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 15:16:58.801] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 15:16:58.801] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 15:16:58.801] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 15:17:40.998] [info]  MY INFO LOG
+[2024-11-06 15:18:58.952] [info]  MY INFO LOG
+[2024-11-06 15:19:43.115] [info]  MESSAGES:  null
+[2024-11-06 15:19:43.116] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.116] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.116] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.116] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.116] [info]  MESSAGES:  null
+[2024-11-06 15:19:43.117] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.117] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.117] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:43.117] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:52:56
+[2024-11-06 15:19:44.064] [info]  MESSAGES:  [
+  {
+    header: {
+      org: 'CAMARA',
+      nms: '1',
+      idu: 'DANIEL I. KOKALY F.',
+      fgb: '22/04/22',
+      hgb: '10:51:06',
+      msg: '246',
+      pri: '01',
+      tid: '0730',
+      nse: '00000',
+      fen: '00/00/00',
+      hen: '00:00:00'
+    },
+    messages: 'HGB:10:51:06\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:220422}\n' +
+      'RP1:0730{-TENPO      }\n' +
+      'RP2:0001{-BCOCHILE   }\n' +
+      'RP3:13501}\n' +
+      'RPJ:210422}\n' +
+      'RPK:100000}\n' +
+      'E32:}\n' +
+      'RPL:}\n' +
+      'E32:HOY CON FECHA 22 DE ABRIL DE 2022, INFORMAMOS QUE EN LA 5TA}\n' +
+      'E32:REUNION JURISDICCIONAL: CAJEROS ATM, DE LA CAMARA DE COMPENSACION}\n' +
+      'E32:SE HA REALIZADO EL CORRESPONDIENTE ABONO DEL REPORTE}\n' +
+      'E32:DE PROBLEMAS VENCIDO.}\n' +
+      'E32:}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:',
+    to: '0730',
+    area: '05',
+    event: 'pam',
+    hour: '10:51',
+    date: '22/04/22',
+    filename: '24600002.053',
+    description: '',
+    content: 'ORG:CAMARA\n' +
+      'NMS:1\n' +
+      'IDU:DANIEL I. KOKALY F.\n' +
+      'FGB:22/04/22\n' +
+      'HGB:10:51:06\n' +
+      'MSG:246\n' +
+      'PRI:01\n' +
+      'TID:0730CLRM1001\n' +
+      'NSE:00000\n' +
+      'FEN:00/00/00\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:220422}\n' +
+      'RP1:0730{-TENPO      }\n' +
+      'RP2:0001{-BCOCHILE   }\n' +
+      'RP3:13501}\n' +
+      'RPJ:210422}\n' +
+      'RPK:100000}\n' +
+      'E32:}\n' +
+      'RPL:}\n' +
+      'E32:HOY CON FECHA 22 DE ABRIL DE 2022, INFORMAMOS QUE EN LA 5TA}\n' +
+      'E32:REUNION JURISDICCIONAL: CAJEROS ATM, DE LA CAMARA DE COMPENSACION}\n' +
+      'E32:SE HA REALIZADO EL CORRESPONDIENTE ABONO DEL REPORTE}\n' +
+      'E32:DE PROBLEMAS VENCIDO.}\n' +
+      'E32:}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:'
+  },
+  {
+    header: {
+      org: 'CAMARA',
+      nms: '1',
+      idu: 'DANIEL I. KOKALY F.',
+      fgb: '28/06/24',
+      hgb: '15:45:32',
+      msg: '248',
+      pri: '01',
+      tid: '0001',
+      nse: '00000',
+      fen: '00/00/00',
+      hen: '00:00:00'
+    },
+    messages: 'HGB:15:45:32\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:280624}\n' +
+      'RPQ:1/1}\n' +
+      'RPP:|\n' +
+      '|\n' +
+      '|\n' +
+      '                     ***  No Registra Movimientos  *** |\n' +
+      '|\n' +
+      '|\n' +
+      '|\n' +
+      '                                         =============== ===============|\n' +
+      '                       T O T A L E S                                   |\n' +
+      '                       SALDO:                                          |\n' +
+      '\n' +
+      '}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:',
+    to: '0001',
+    area: '05',
+    event: 'pam',
+    hour: '15:45',
+    date: '28/06/24',
+    filename: '24800002.053',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'ORG:CAMARA\n' +
+      'NMS:1\n' +
+      'IDU:DANIEL I. KOKALY F.\n' +
+      'FGB:28/06/24\n' +
+      'HGB:15:45:32\n' +
+      'MSG:248\n' +
+      'PRI:01\n' +
+      'TID:0001CLRM1001\n' +
+      'NSE:00000\n' +
+      'FEN:00/00/00\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:280624}\n' +
+      'RPQ:1/1}\n' +
+      'RPP:|\n' +
+      '|\n' +
+      '|\n' +
+      '                     ***  No Registra Movimientos  *** |\n' +
+      '|\n' +
+      '|\n' +
+      '|\n' +
+      '                                         =============== ===============|\n' +
+      '                       T O T A L E S                                   |\n' +
+      '                       SALDO:                                          |\n' +
+      '\n' +
+      '}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:'
+  },
+  {
+    header: {
+      osn: '00008',
+      msg: '203',
+      tid: '0037',
+      fhe: '16/12/22 11:30:02',
+      fhr: '16/12/22 11:30:02',
+      nse: '00008'
+    },
+    message: ' 18: Banco Santander\r\n' +
+      ' 20: CANJE IMAGENES\r\n' +
+      ' 34: 161222\r\n' +
+      'I02:       580165259\r\n' +
+      'I04:               0\r\n' +
+      'I06:               0\r\n' +
+      'I08:               0\r\n' +
+      'I10:               0\r\n' +
+      'I12:               0\r\n' +
+      'I14:               0\r\n' +
+      'I16:               0\r\n' +
+      'I18:               0\r\n' +
+      'I20:               0\r\n' +
+      'I24:               0\r\n' +
+      'I28:               0\r\n' +
+      'I30:               0\r\n' +
+      'I32:               0\r\n' +
+      'I34:               0\r\n' +
+      'I36:               0\r\n' +
+      'I38:               0\r\n' +
+      'I40:               0\r\n' +
+      'I42:               0\r\n' +
+      'I44:               0\r\n' +
+      'I46:               0\r\n' +
+      'I48:               0\r\n' +
+      'I50:               0\r\n' +
+      'I52:               0\r\n' +
+      'I54:               0\r\n' +
+      'I56:               0\r\n' +
+      'I58:               0\r\n' +
+      'I60:               0\r\n' +
+      'I62:               0\r\n' +
+      'I64:               0\r\n' +
+      'I66:               0\r\n' +
+      'I68:               0\r\n' +
+      'I70:               0\r\n' +
+      'I72:               0\r\n' +
+      'I73:               0\r\n' +
+      'I87:               0\r\n' +
+      'I88:               0\r\n' +
+      'I89:               0\r\n' +
+      'I90:               0\r\n' +
+      'I91:               0\r\n' +
+      'I92:               0\r\n' +
+      'I74:               0\r\n' +
+      'I76:               0\r\n' +
+      'I80:               0\r\n' +
+      'I82:               0\r\n' +
+      'I84:               0\r\n' +
+      'I86:               0\r\n' +
+      'H22:       580165259\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 11:30',
+    date: '16/12/22',
+    filename: '20300008.101',
+    event: 'tam',
+    institution: 'BSANTANDER',
+    description: '',
+    content: 'OSN 00008\r\n' +
+      'MSG 203 CAMARA COMPENSACION -3- DEVOLUC. PROTESTO\r\n' +
+      'TID 0037CLRM1001\r\n' +
+      'FHE 16/12/22 11:30:02\r\n' +
+      'FHR 16/12/22 11:30:02\r\n' +
+      'NSE 00008\r\n' +
+      ' 18: Banco Santander\r\n' +
+      ' 20: CANJE IMAGENES\r\n' +
+      ' 34: 161222\r\n' +
+      'I02:       580165259\r\n' +
+      'I04:               0\r\n' +
+      'I06:               0\r\n' +
+      'I08:               0\r\n' +
+      'I10:               0\r\n' +
+      'I12:               0\r\n' +
+      'I14:               0\r\n' +
+      'I16:               0\r\n' +
+      'I18:               0\r\n' +
+      'I20:               0\r\n' +
+      'I24:               0\r\n' +
+      'I28:               0\r\n' +
+      'I30:               0\r\n' +
+      'I32:               0\r\n' +
+      'I34:               0\r\n' +
+      'I36:               0\r\n' +
+      'I38:               0\r\n' +
+      'I40:               0\r\n' +
+      'I42:               0\r\n' +
+      'I44:               0\r\n' +
+      'I46:               0\r\n' +
+      'I48:               0\r\n' +
+      'I50:               0\r\n' +
+      'I52:               0\r\n' +
+      'I54:               0\r\n' +
+      'I56:               0\r\n' +
+      'I58:               0\r\n' +
+      'I60:               0\r\n' +
+      'I62:               0\r\n' +
+      'I64:               0\r\n' +
+      'I66:               0\r\n' +
+      'I68:               0\r\n' +
+      'I70:               0\r\n' +
+      'I72:               0\r\n' +
+      'I73:               0\r\n' +
+      'I87:               0\r\n' +
+      'I88:               0\r\n' +
+      'I89:               0\r\n' +
+      'I90:               0\r\n' +
+      'I91:               0\r\n' +
+      'I92:               0\r\n' +
+      'I74:               0\r\n' +
+      'I76:               0\r\n' +
+      'I80:               0\r\n' +
+      'I82:               0\r\n' +
+      'I84:               0\r\n' +
+      'I86:               0\r\n' +
+      'H22:       580165259\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '32625',
+      msg: '243',
+      tid: '0016',
+      fhe: '18/07/24 14:47:56',
+      fhr: '18/07/24 14:47:57',
+      nse: '44973'
+    },
+    message: ' 18: HCASTIV\r\n' +
+      ' 20: .\r\n' +
+      ' 34: 180724\r\n' +
+      'RP1: 0016 -B.CREDITO\r\n' +
+      'RP2: 0012 -B. ESTADO\r\n' +
+      'RP3: 77208                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 30642997\r\n' +
+      'RP7: XXXX3132\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 8881\r\n' +
+      'RPB: 769\r\n' +
+      'RPC: 10:51\r\n' +
+      'RPD: 280624\r\n' +
+      'RPE: NO DISPENSADO TOTAL\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          200000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      ' 79: TRX CARGADA EN CTA, NO REVERSADA-ADJUNTAR HUINCHA Y CUADRATURA\r\n' +
+      'ENV/CASTILLO HEY\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '50',
+    hour: ' 14:47',
+    date: '18/07/24',
+    filename: '24332625.501',
+    event: 'tam',
+    institution: 'BCI',
+    description: '',
+    content: 'OSN 32625\r\n' +
+      'MSG 243 REPORTE DE PROBLEMAS CAJEROS\r\n' +
+      'TID 0016CLRM1001\r\n' +
+      'FHE 18/07/24 14:47:56\r\n' +
+      'FHR 18/07/24 14:47:57\r\n' +
+      'NSE 44973\r\n' +
+      ' 18: HCASTIV\r\n' +
+      ' 20: .\r\n' +
+      ' 34: 180724\r\n' +
+      'RP1: 0016 -B.CREDITO\r\n' +
+      'RP2: 0012 -B. ESTADO\r\n' +
+      'RP3: 77208                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 30642997\r\n' +
+      'RP7: XXXX3132\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 8881\r\n' +
+      'RPB: 769\r\n' +
+      'RPC: 10:51\r\n' +
+      'RPD: 280624\r\n' +
+      'RPE: NO DISPENSADO TOTAL\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          200000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      ' 79: TRX CARGADA EN CTA, NO REVERSADA-ADJUNTAR HUINCHA Y CUADRATURA\r\n' +
+      'ENV/CASTILLO HEY\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '32649',
+      msg: '244',
+      tid: '0037',
+      fhe: '18/07/24 17:08:14',
+      fhr: '18/07/24 17:08:14',
+      nse: '23785'
+    },
+    message: ' 18: DLS\r\n' +
+      ' 20: BSAN\r\n' +
+      ' 34: 170724\r\n' +
+      'RP1: 0012 -B. ESTADO\r\n' +
+      'RP2: 0037 -BSANTANDER\r\n' +
+      'RP3: 77179                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 47664122\r\n' +
+      'RP7: .\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 6492\r\n' +
+      'RPB: 6968\r\n' +
+      'RPC: 15:04\r\n' +
+      'RPD: 040624\r\n' +
+      'RPE: GIRO NO DISPENSADO\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          100000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      'RPO: N\r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      ' 79: FAVOR ENVIAR HUINCHA CON ANTECEDENTES\r\n' +
+      'ENV/DLORCAS     \r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '50',
+    hour: ' 17:08',
+    date: '18/07/24',
+    filename: '24432649.501',
+    event: 'tam',
+    institution: 'BSANTANDER',
+    description: '',
+    content: 'OSN 32649\r\n' +
+      'MSG 244 RESPUESTA A REPORTE DE PROBLEMAS\r\n' +
+      'TID 0037CLRM1001\r\n' +
+      'FHE 18/07/24 17:08:14\r\n' +
+      'FHR 18/07/24 17:08:14\r\n' +
+      'NSE 23785\r\n' +
+      ' 18: DLS\r\n' +
+      ' 20: BSAN\r\n' +
+      ' 34: 170724\r\n' +
+      'RP1: 0012 -B. ESTADO\r\n' +
+      'RP2: 0037 -BSANTANDER\r\n' +
+      'RP3: 77179                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 47664122\r\n' +
+      'RP7: .\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 6492\r\n' +
+      'RPB: 6968\r\n' +
+      'RPC: 15:04\r\n' +
+      'RPD: 040624\r\n' +
+      'RPE: GIRO NO DISPENSADO\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          100000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      'RPO: N\r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      ' 79: FAVOR ENVIAR HUINCHA CON ANTECEDENTES\r\n' +
+      'ENV/DLORCAS     \r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '21799',
+      msg: '601',
+      tid: '0001',
+      fhe: '23/07/24 17:05:07',
+      fhr: '23/07/24 17:05:07',
+      nse: '21799'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0016 24072024\r\n' +
+      'I02:               0       703883649\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:       345571157               0\r\n' +
+      'I14:        62346720               0\r\n' +
+      'I16:        28672425               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:       160459708               0\r\n' +
+      'I50:       106833639               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:       703883649       703883649\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 17:05',
+    date: '23/07/24',
+    filename: '60100016.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 21799\r\n' +
+      'MSG 601 1ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 23/07/24 17:05:07\r\n' +
+      'FHR 23/07/24 17:05:07\r\n' +
+      'NSE 21799\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0016 24072024\r\n' +
+      'I02:               0       703883649\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:       345571157               0\r\n' +
+      'I14:        62346720               0\r\n' +
+      'I16:        28672425               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:       160459708               0\r\n' +
+      'I50:       106833639               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:       703883649       703883649\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '21800',
+      msg: '601',
+      tid: '0001',
+      fhe: '23/07/24 17:05:08',
+      fhr: '23/07/24 17:05:08',
+      nse: '21800'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 24072024\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 17:05',
+    date: '23/07/24',
+    filename: '60100024.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 21800\r\n' +
+      'MSG 601 1ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 23/07/24 17:05:08\r\n' +
+      'FHR 23/07/24 17:05:08\r\n' +
+      'NSE 21800\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 24072024\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '10520',
+      msg: '603',
+      tid: '0001',
+      fhe: '16/12/22 11:30:03',
+      fhr: '16/12/22 11:30:03',
+      nse: '10520'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 2DA. y 3RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 16122022\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 11:30',
+    date: '16/12/22',
+    filename: '60300024.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 10520\r\n' +
+      'MSG 603 2DA. y 3ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 16/12/22 11:30:03\r\n' +
+      'FHR 16/12/22 11:30:03\r\n' +
+      'NSE 10520\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 2DA. y 3RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 16122022\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  }
+]
+[2024-11-06 15:19:44.371] [info]  MESSAGES:  [
+  {
+    header: {
+      org: 'CAMARA',
+      nms: '1',
+      idu: 'DANIEL I. KOKALY F.',
+      fgb: '22/04/22',
+      hgb: '10:51:06',
+      msg: '246',
+      pri: '01',
+      tid: '0730',
+      nse: '00000',
+      fen: '00/00/00',
+      hen: '00:00:00'
+    },
+    messages: 'HGB:10:51:06\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:220422}\n' +
+      'RP1:0730{-TENPO      }\n' +
+      'RP2:0001{-BCOCHILE   }\n' +
+      'RP3:13501}\n' +
+      'RPJ:210422}\n' +
+      'RPK:100000}\n' +
+      'E32:}\n' +
+      'RPL:}\n' +
+      'E32:HOY CON FECHA 22 DE ABRIL DE 2022, INFORMAMOS QUE EN LA 5TA}\n' +
+      'E32:REUNION JURISDICCIONAL: CAJEROS ATM, DE LA CAMARA DE COMPENSACION}\n' +
+      'E32:SE HA REALIZADO EL CORRESPONDIENTE ABONO DEL REPORTE}\n' +
+      'E32:DE PROBLEMAS VENCIDO.}\n' +
+      'E32:}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:',
+    to: '0730',
+    area: '05',
+    event: 'pam',
+    hour: '10:51',
+    date: '22/04/22',
+    filename: '24600002.053',
+    description: '',
+    content: 'ORG:CAMARA\n' +
+      'NMS:1\n' +
+      'IDU:DANIEL I. KOKALY F.\n' +
+      'FGB:22/04/22\n' +
+      'HGB:10:51:06\n' +
+      'MSG:246\n' +
+      'PRI:01\n' +
+      'TID:0730CLRM1001\n' +
+      'NSE:00000\n' +
+      'FEN:00/00/00\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:220422}\n' +
+      'RP1:0730{-TENPO      }\n' +
+      'RP2:0001{-BCOCHILE   }\n' +
+      'RP3:13501}\n' +
+      'RPJ:210422}\n' +
+      'RPK:100000}\n' +
+      'E32:}\n' +
+      'RPL:}\n' +
+      'E32:HOY CON FECHA 22 DE ABRIL DE 2022, INFORMAMOS QUE EN LA 5TA}\n' +
+      'E32:REUNION JURISDICCIONAL: CAJEROS ATM, DE LA CAMARA DE COMPENSACION}\n' +
+      'E32:SE HA REALIZADO EL CORRESPONDIENTE ABONO DEL REPORTE}\n' +
+      'E32:DE PROBLEMAS VENCIDO.}\n' +
+      'E32:}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:'
+  },
+  {
+    header: {
+      org: 'CAMARA',
+      nms: '1',
+      idu: 'DANIEL I. KOKALY F.',
+      fgb: '28/06/24',
+      hgb: '15:45:32',
+      msg: '248',
+      pri: '01',
+      tid: '0001',
+      nse: '00000',
+      fen: '00/00/00',
+      hen: '00:00:00'
+    },
+    messages: 'HGB:15:45:32\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:280624}\n' +
+      'RPQ:1/1}\n' +
+      'RPP:|\n' +
+      '|\n' +
+      '|\n' +
+      '                     ***  No Registra Movimientos  *** |\n' +
+      '|\n' +
+      '|\n' +
+      '|\n' +
+      '                                         =============== ===============|\n' +
+      '                       T O T A L E S                                   |\n' +
+      '                       SALDO:                                          |\n' +
+      '\n' +
+      '}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:',
+    to: '0001',
+    area: '05',
+    event: 'pam',
+    hour: '15:45',
+    date: '28/06/24',
+    filename: '24800002.053',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'ORG:CAMARA\n' +
+      'NMS:1\n' +
+      'IDU:DANIEL I. KOKALY F.\n' +
+      'FGB:28/06/24\n' +
+      'HGB:15:45:32\n' +
+      'MSG:248\n' +
+      'PRI:01\n' +
+      'TID:0001CLRM1001\n' +
+      'NSE:00000\n' +
+      'FEN:00/00/00\n' +
+      'HEN:00:00:00\n' +
+      ' 18:DANIEL I. KOKALY F./J.CAMARA}\n' +
+      ' 34:280624}\n' +
+      'RPQ:1/1}\n' +
+      'RPP:|\n' +
+      '|\n' +
+      '|\n' +
+      '                     ***  No Registra Movimientos  *** |\n' +
+      '|\n' +
+      '|\n' +
+      '|\n' +
+      '                                         =============== ===============|\n' +
+      '                       T O T A L E S                                   |\n' +
+      '                       SALDO:                                          |\n' +
+      '\n' +
+      '}\n' +
+      ' 79:S.O.}\n' +
+      'FIN:'
+  },
+  {
+    header: {
+      osn: '00008',
+      msg: '203',
+      tid: '0037',
+      fhe: '16/12/22 11:30:02',
+      fhr: '16/12/22 11:30:02',
+      nse: '00008'
+    },
+    message: ' 18: Banco Santander\r\n' +
+      ' 20: CANJE IMAGENES\r\n' +
+      ' 34: 161222\r\n' +
+      'I02:       580165259\r\n' +
+      'I04:               0\r\n' +
+      'I06:               0\r\n' +
+      'I08:               0\r\n' +
+      'I10:               0\r\n' +
+      'I12:               0\r\n' +
+      'I14:               0\r\n' +
+      'I16:               0\r\n' +
+      'I18:               0\r\n' +
+      'I20:               0\r\n' +
+      'I24:               0\r\n' +
+      'I28:               0\r\n' +
+      'I30:               0\r\n' +
+      'I32:               0\r\n' +
+      'I34:               0\r\n' +
+      'I36:               0\r\n' +
+      'I38:               0\r\n' +
+      'I40:               0\r\n' +
+      'I42:               0\r\n' +
+      'I44:               0\r\n' +
+      'I46:               0\r\n' +
+      'I48:               0\r\n' +
+      'I50:               0\r\n' +
+      'I52:               0\r\n' +
+      'I54:               0\r\n' +
+      'I56:               0\r\n' +
+      'I58:               0\r\n' +
+      'I60:               0\r\n' +
+      'I62:               0\r\n' +
+      'I64:               0\r\n' +
+      'I66:               0\r\n' +
+      'I68:               0\r\n' +
+      'I70:               0\r\n' +
+      'I72:               0\r\n' +
+      'I73:               0\r\n' +
+      'I87:               0\r\n' +
+      'I88:               0\r\n' +
+      'I89:               0\r\n' +
+      'I90:               0\r\n' +
+      'I91:               0\r\n' +
+      'I92:               0\r\n' +
+      'I74:               0\r\n' +
+      'I76:               0\r\n' +
+      'I80:               0\r\n' +
+      'I82:               0\r\n' +
+      'I84:               0\r\n' +
+      'I86:               0\r\n' +
+      'H22:       580165259\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 11:30',
+    date: '16/12/22',
+    filename: '20300008.101',
+    event: 'tam',
+    institution: 'BSANTANDER',
+    description: '',
+    content: 'OSN 00008\r\n' +
+      'MSG 203 CAMARA COMPENSACION -3- DEVOLUC. PROTESTO\r\n' +
+      'TID 0037CLRM1001\r\n' +
+      'FHE 16/12/22 11:30:02\r\n' +
+      'FHR 16/12/22 11:30:02\r\n' +
+      'NSE 00008\r\n' +
+      ' 18: Banco Santander\r\n' +
+      ' 20: CANJE IMAGENES\r\n' +
+      ' 34: 161222\r\n' +
+      'I02:       580165259\r\n' +
+      'I04:               0\r\n' +
+      'I06:               0\r\n' +
+      'I08:               0\r\n' +
+      'I10:               0\r\n' +
+      'I12:               0\r\n' +
+      'I14:               0\r\n' +
+      'I16:               0\r\n' +
+      'I18:               0\r\n' +
+      'I20:               0\r\n' +
+      'I24:               0\r\n' +
+      'I28:               0\r\n' +
+      'I30:               0\r\n' +
+      'I32:               0\r\n' +
+      'I34:               0\r\n' +
+      'I36:               0\r\n' +
+      'I38:               0\r\n' +
+      'I40:               0\r\n' +
+      'I42:               0\r\n' +
+      'I44:               0\r\n' +
+      'I46:               0\r\n' +
+      'I48:               0\r\n' +
+      'I50:               0\r\n' +
+      'I52:               0\r\n' +
+      'I54:               0\r\n' +
+      'I56:               0\r\n' +
+      'I58:               0\r\n' +
+      'I60:               0\r\n' +
+      'I62:               0\r\n' +
+      'I64:               0\r\n' +
+      'I66:               0\r\n' +
+      'I68:               0\r\n' +
+      'I70:               0\r\n' +
+      'I72:               0\r\n' +
+      'I73:               0\r\n' +
+      'I87:               0\r\n' +
+      'I88:               0\r\n' +
+      'I89:               0\r\n' +
+      'I90:               0\r\n' +
+      'I91:               0\r\n' +
+      'I92:               0\r\n' +
+      'I74:               0\r\n' +
+      'I76:               0\r\n' +
+      'I80:               0\r\n' +
+      'I82:               0\r\n' +
+      'I84:               0\r\n' +
+      'I86:               0\r\n' +
+      'H22:       580165259\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '32625',
+      msg: '243',
+      tid: '0016',
+      fhe: '18/07/24 14:47:56',
+      fhr: '18/07/24 14:47:57',
+      nse: '44973'
+    },
+    message: ' 18: HCASTIV\r\n' +
+      ' 20: .\r\n' +
+      ' 34: 180724\r\n' +
+      'RP1: 0016 -B.CREDITO\r\n' +
+      'RP2: 0012 -B. ESTADO\r\n' +
+      'RP3: 77208                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 30642997\r\n' +
+      'RP7: XXXX3132\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 8881\r\n' +
+      'RPB: 769\r\n' +
+      'RPC: 10:51\r\n' +
+      'RPD: 280624\r\n' +
+      'RPE: NO DISPENSADO TOTAL\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          200000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      ' 79: TRX CARGADA EN CTA, NO REVERSADA-ADJUNTAR HUINCHA Y CUADRATURA\r\n' +
+      'ENV/CASTILLO HEY\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '50',
+    hour: ' 14:47',
+    date: '18/07/24',
+    filename: '24332625.501',
+    event: 'tam',
+    institution: 'BCI',
+    description: '',
+    content: 'OSN 32625\r\n' +
+      'MSG 243 REPORTE DE PROBLEMAS CAJEROS\r\n' +
+      'TID 0016CLRM1001\r\n' +
+      'FHE 18/07/24 14:47:56\r\n' +
+      'FHR 18/07/24 14:47:57\r\n' +
+      'NSE 44973\r\n' +
+      ' 18: HCASTIV\r\n' +
+      ' 20: .\r\n' +
+      ' 34: 180724\r\n' +
+      'RP1: 0016 -B.CREDITO\r\n' +
+      'RP2: 0012 -B. ESTADO\r\n' +
+      'RP3: 77208                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 30642997\r\n' +
+      'RP7: XXXX3132\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 8881\r\n' +
+      'RPB: 769\r\n' +
+      'RPC: 10:51\r\n' +
+      'RPD: 280624\r\n' +
+      'RPE: NO DISPENSADO TOTAL\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          200000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      ' 79: TRX CARGADA EN CTA, NO REVERSADA-ADJUNTAR HUINCHA Y CUADRATURA\r\n' +
+      'ENV/CASTILLO HEY\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '32649',
+      msg: '244',
+      tid: '0037',
+      fhe: '18/07/24 17:08:14',
+      fhr: '18/07/24 17:08:14',
+      nse: '23785'
+    },
+    message: ' 18: DLS\r\n' +
+      ' 20: BSAN\r\n' +
+      ' 34: 170724\r\n' +
+      'RP1: 0012 -B. ESTADO\r\n' +
+      'RP2: 0037 -BSANTANDER\r\n' +
+      'RP3: 77179                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 47664122\r\n' +
+      'RP7: .\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 6492\r\n' +
+      'RPB: 6968\r\n' +
+      'RPC: 15:04\r\n' +
+      'RPD: 040624\r\n' +
+      'RPE: GIRO NO DISPENSADO\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          100000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      'RPO: N\r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      ' 79: FAVOR ENVIAR HUINCHA CON ANTECEDENTES\r\n' +
+      'ENV/DLORCAS     \r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '50',
+    hour: ' 17:08',
+    date: '18/07/24',
+    filename: '24432649.501',
+    event: 'tam',
+    institution: 'BSANTANDER',
+    description: '',
+    content: 'OSN 32649\r\n' +
+      'MSG 244 RESPUESTA A REPORTE DE PROBLEMAS\r\n' +
+      'TID 0037CLRM1001\r\n' +
+      'FHE 18/07/24 17:08:14\r\n' +
+      'FHR 18/07/24 17:08:14\r\n' +
+      'NSE 23785\r\n' +
+      ' 18: DLS\r\n' +
+      ' 20: BSAN\r\n' +
+      ' 34: 170724\r\n' +
+      'RP1: 0012 -B. ESTADO\r\n' +
+      'RP2: 0037 -BSANTANDER\r\n' +
+      'RP3: 77179                              \r\n' +
+      'RP5: DEBITO\r\n' +
+      'RP6: 47664122\r\n' +
+      'RP7: .\r\n' +
+      'RP9: .\r\n' +
+      'RPA: 6492\r\n' +
+      'RPB: 6968\r\n' +
+      'RPC: 15:04\r\n' +
+      'RPD: 040624\r\n' +
+      'RPE: GIRO NO DISPENSADO\r\n' +
+      'RPF: FALTANTE\r\n' +
+      'RPG:          100000\r\n' +
+      'RPH: GIRO NO DISPENSADO\r\n' +
+      'RPO: N\r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      'E32: \r\n' +
+      ' 79: FAVOR ENVIAR HUINCHA CON ANTECEDENTES\r\n' +
+      'ENV/DLORCAS     \r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '21799',
+      msg: '601',
+      tid: '0001',
+      fhe: '23/07/24 17:05:07',
+      fhr: '23/07/24 17:05:07',
+      nse: '21799'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0016 24072024\r\n' +
+      'I02:               0       703883649\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:       345571157               0\r\n' +
+      'I14:        62346720               0\r\n' +
+      'I16:        28672425               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:       160459708               0\r\n' +
+      'I50:       106833639               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:       703883649       703883649\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 17:05',
+    date: '23/07/24',
+    filename: '60100016.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 21799\r\n' +
+      'MSG 601 1ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 23/07/24 17:05:07\r\n' +
+      'FHR 23/07/24 17:05:07\r\n' +
+      'NSE 21799\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0016 24072024\r\n' +
+      'I02:               0       703883649\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:       345571157               0\r\n' +
+      'I14:        62346720               0\r\n' +
+      'I16:        28672425               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:       160459708               0\r\n' +
+      'I50:       106833639               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:       703883649       703883649\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '21800',
+      msg: '601',
+      tid: '0001',
+      fhe: '23/07/24 17:05:08',
+      fhr: '23/07/24 17:05:08',
+      nse: '21800'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 24072024\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 17:05',
+    date: '23/07/24',
+    filename: '60100024.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 21800\r\n' +
+      'MSG 601 1ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 23/07/24 17:05:08\r\n' +
+      'FHR 23/07/24 17:05:08\r\n' +
+      'NSE 21800\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 1RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 24072024\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  },
+  {
+    header: {
+      osn: '10520',
+      msg: '603',
+      tid: '0001',
+      fhe: '16/12/22 11:30:03',
+      fhr: '16/12/22 11:30:03',
+      nse: '10520'
+    },
+    message: ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 2DA. y 3RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 16122022\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n',
+    area: '10',
+    hour: ' 11:30',
+    date: '16/12/22',
+    filename: '60300024.101',
+    event: 'tam',
+    institution: 'B.DE CHILE',
+    description: '',
+    content: 'OSN 10520\r\n' +
+      'MSG 603 2DA. y 3ERA. REUNION - SALDOS NETOS POR LOCALIDAD\r\n' +
+      'TID 0001CLRM1001\r\n' +
+      'FHE 16/12/22 11:30:03\r\n' +
+      'FHR 16/12/22 11:30:03\r\n' +
+      'NSE 10520\r\n' +
+      ' 18: CANJE IMAGENES\r\n' +
+      ' 20: 2DA. y 3RA. REUNION  SALDOS NETOS POR LOCAL\r\n' +
+      'R78: 0024 16122022\r\n' +
+      'I02:               0               0\r\n' +
+      'I06:               0               0\r\n' +
+      'I12:               0               0\r\n' +
+      'I14:               0               0\r\n' +
+      'I16:               0               0\r\n' +
+      'I18:               0               0\r\n' +
+      'I20:               0               0\r\n' +
+      'I28:               0               0\r\n' +
+      'I30:               0               0\r\n' +
+      'I34:               0               0\r\n' +
+      'I38:               0               0\r\n' +
+      'I46:               0               0\r\n' +
+      'I50:               0               0\r\n' +
+      'I54:               0               0\r\n' +
+      'I58:               0               0\r\n' +
+      'I62:               0               0\r\n' +
+      'I64:               0               0\r\n' +
+      'I68:               0               0\r\n' +
+      'I72:               0               0\r\n' +
+      'I73:               0               0\r\n' +
+      'I87:               0               0\r\n' +
+      'I88:               0               0\r\n' +
+      'I89:               0               0\r\n' +
+      'I90:               0               0\r\n' +
+      'I91:               0               0\r\n' +
+      'I92:               0               0\r\n' +
+      'I74:               0               0\r\n' +
+      'I76:               0               0\r\n' +
+      'H26:               0               0\r\n' +
+      ' 79: S/O.- CI\r\n' +
+      'ENV/CANJE IMAGENES\r\n' +
+      'AUT/AUTENTICACION CORRECTA\r\n' +
+      'FIN\r\n'
+  }
+]
+[2024-11-06 15:20:10.086] [info]  MY INFO LOG
+[2024-11-06 15:34:38.139] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:51:56
+[2024-11-06 15:34:38.152] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:51:56
+[2024-11-06 15:34:58.061] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:51:56
+[2024-11-06 15:34:58.070] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx:51:56
+[2024-11-06 17:12:38.937] [info]  MY INFO LOG
+[2024-11-06 17:12:50.089] [info]  MY INFO LOG
+[2024-11-06 17:12:50.430] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 17:12:50.434] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 17:12:50.434] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 17:12:50.434] [error] Error en promesa no manejada: Error: ENOENT: no such file or directory, open '/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/config.json'
+[2024-11-06 17:15:25.730] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx?t=1730924125246:51:56
+[2024-11-06 17:15:25.732] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx?t=1730924125246:51:56
+[2024-11-06 17:15:25.732] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:5173/src/App.tsx?t=1730924125246:51:56
+[2024-11-06 17:15:27.676] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:27.677] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:27.677] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:39.350] [info]  MY INFO LOG
+[2024-11-06 17:15:40.809] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:40.812] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:40.812] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:15:40.812] [error] Error en promesa no manejada: Error: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+[2024-11-06 17:17:31.396] [info]  MY INFO LOG
+[2024-11-06 17:17:43.142] [info]  MY INFO LOG
+[2024-11-08 16:16:07.618] [info]  MY INFO LOG
+[2024-11-08 16:17:02.365] [info]  MY INFO LOG
+[2024-11-08 16:17:45.485] [info]  MY INFO LOG
+[2024-11-08 16:19:02.007] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-08 16:19:02.012] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-08 16:19:02.247] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-08 16:19:02.248] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
