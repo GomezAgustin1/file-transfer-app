@@ -1521,3 +1521,4 @@
     at http://localhost:2002/src/App.tsx:51:56
 [2024-11-08 16:19:02.248] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
     at http://localhost:2002/src/App.tsx:51:56
+[2024-11-08 18:05:17.381] [info]  MY INFO LOG

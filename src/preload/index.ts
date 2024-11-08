@@ -3,17 +3,17 @@ import { electronAPI } from '@electron-toolkit/preload';
 import { FileService } from './file.service';
 import MessagesService from './messages.service';
 import { InstitutionService } from './institution.service';
-import { join } from 'path';
+// import { join } from 'path';
 import { cwd } from 'process';
 
 // const CONFIG_FILE = join(__dirname, '..', '..', '..', '..', '..', '..', 'config.json')
-const CONFIG_FILE = join(cwd(), 'config.json');
+//const CONFIG_FILE = join(cwd(), 'config.json');
 
 export async function getConfig() {
-  const fileService = new FileService();
-  const configData = await fileService.getFile(CONFIG_FILE);
-  const config = JSON.parse(configData);
-  return [CONFIG_FILE, config];
+  //const fileService = new FileService();
+  //const configData = await fileService.getFile(CONFIG_FILE);
+  //const config = JSON.parse(configData);
+  return [cwd(), cwd()];
 }
 
 async function prepareConfig() {
