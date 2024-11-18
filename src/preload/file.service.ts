@@ -79,12 +79,12 @@ export class FileService implements IFileService {
     }
   }
 
-  async createDirectory({ dirName }) {
+  async createDirectory({ dirPath }) {
     try {
-      await fs.promises.mkdir(dirName);
-      console.log(`Directory ${dirName} created.`);
+      await fs.promises.mkdir(dirPath);
+      console.log(`Directory ${dirPath} created.`);
     } catch (error) {
-      console.error(`Error creating directory ${dirName}:`, error);
+      console.error(`Error creating directory ${dirPath}:`, error);
       throw error;
     }
   }
@@ -98,6 +98,19 @@ export class FileService implements IFileService {
         return false;
       }
       console.error(`Error checking if file ${filePath} exists:`, error);
+      throw error;
+    }
+  }
+
+  async directoryExists(dirPath) {
+    try {
+      await fs.promises.access(dirPath);
+      return true;
+    } catch (error: any) {
+      if (error.code === 'ENOENT') {
+        return false;
+      }
+      console.error(`Error checking if directory ${dirPath} exists:`, error);
       throw error;
     }
   }

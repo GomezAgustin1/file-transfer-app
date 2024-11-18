@@ -8,7 +8,6 @@ import log from 'electron-log';
 
 interface WindowAPI {
   messagesFlowHandler: () => Promise<Array<any>>;
-  getConfig: () => any;
 }
 
 const Title = styled.h1`
@@ -23,7 +22,6 @@ function App(): JSX.Element {
   const [tableData, setTableData] = useState<TableDataInterface[]>(mockTableData);
   const [headerData] = useState(mockHeaderData);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [config, setConfig] = useState(['1', '2']);
 
   const handleModal = () => {
     setIsModalOpen(!isModalOpen);
@@ -54,12 +52,6 @@ function App(): JSX.Element {
       }));
       setTableData(transformedMessagesDataForTable);
     });
-
-    setTimeout(() => {
-      api.getConfig().then((res) => {
-        setConfig(res);
-      });
-    }, 1000);
   }, []);
   return (
     <>
@@ -70,8 +62,7 @@ function App(): JSX.Element {
         sessionId={headerData.sessionId}
       />
       <Modal text='Mensajes Sincronizados exitosamente' open={isModalOpen} handleModal={handleModal} />
-      <Title>Monitoreo Mensajería FTI: {config[0]}</Title>
-      <p>{JSON.stringify(config[1])}</p>
+      <Title>Monitoreo Mensajería FTI: </Title>
       <Table data={tableData} />
     </>
   );

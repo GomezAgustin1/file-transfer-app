@@ -1522,3 +1522,465 @@
 [2024-11-08 16:19:02.248] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
     at http://localhost:2002/src/App.tsx:51:56
 [2024-11-08 18:05:17.381] [info]  MY INFO LOG
+[2024-11-09 12:37:49.762] [info]  MY INFO LOG
+[2024-11-09 12:39:05.718] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 12:39:05.729] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 12:39:25.506] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 12:39:25.507] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 12:55:42.555] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 12:55:42.560] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 13:44:23.930] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 13:44:23.937] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-09 16:36:27.383] [info]  MY INFO LOG
+[2024-11-14 07:33:18.339] [info]  MY INFO LOG
+[2024-11-14 07:34:34.192] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:34:34.195] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:34:53.942] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:34:53.943] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:36:42.874] [info]  MY INFO LOG
+[2024-11-14 07:36:48.640] [info]  MY INFO LOG
+[2024-11-14 07:38:04.256] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:38:04.266] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 07:38:14.406] [info]  MY INFO LOG
+[2024-11-14 07:38:53.902] [info]  MY INFO LOG
+[2024-11-14 07:39:12.833] [info]  MY INFO LOG
+[2024-11-14 07:44:05.302] [info]  MY INFO LOG
+[2024-11-14 07:44:47.989] [info]  MY INFO LOG
+[2024-11-14 07:46:01.402] [info]  MY INFO LOG
+[2024-11-14 07:47:02.047] [info]  MY INFO LOG
+[2024-11-14 09:36:13.813] [info]  MY INFO LOG
+[2024-11-14 09:36:14.275] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:14.277] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:14.278] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:14.278] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:44.484] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:44.484] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:44.485] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:44.485] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:51:56
+[2024-11-14 09:36:56.954] [info]  MY INFO LOG
+[2024-11-14 09:36:57.512] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:36:57.513] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:36:57.513] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:36:57.513] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:53:20.188] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:53:20.189] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:53:20.189] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:53:20.189] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:54:41.873] [info]  MY INFO LOG
+[2024-11-14 09:54:42.371] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:54:42.373] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:54:42.382] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:54:42.382] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:55:01.541] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:55:01.542] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:56:30.696] [info]  MY INFO LOG
+[2024-11-14 09:56:31.883] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:56:31.884] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:56:31.902] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 09:56:31.902] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2003/src/App.tsx:51:56
+[2024-11-14 10:17:12.947] [info]  MY INFO LOG
+[2024-11-14 10:32:30.678] [info]  MY INFO LOG
+[2024-11-14 10:41:34.481] [info]  MY INFO LOG
+[2024-11-14 10:41:34.903] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:41:34.905] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:41:34.906] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:41:34.906] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:41:34.906] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:42:23.526] [info]  MY INFO LOG
+[2024-11-14 10:42:23.972] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:42:23.975] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:42:23.975] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:42:23.976] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:42:23.976] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:43:36.214] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:36.215] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:36.215] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:36.219] [error] Error en promesa no manejada: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:36.219] [error] Error en promesa no manejada: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:36.220] [error] Error en promesa no manejada: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at commitRootImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19416:13)
+    at commitRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19277:13)
+[2024-11-14 10:43:39.435] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:43:39.436] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:43:39.436] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:43:39.437] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:43:39.437] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx?t=1731591815859:49:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:44:04.207] [error] Error en la interfaz: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3699:24)
+    at invokeGuardedCallback (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3733:39)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19765:15)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+[2024-11-14 10:44:04.208] [error] Error en la interfaz: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3699:24)
+    at invokeGuardedCallback (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3733:39)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19765:15)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+[2024-11-14 10:44:04.209] [error] Error en la interfaz: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3699:24)
+    at invokeGuardedCallback (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3733:39)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19765:15)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+[2024-11-14 10:44:04.209] [error] Error en la interfaz: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at HTMLUnknownElement.callCallback2 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3674:22)
+    at Object.invokeGuardedCallbackDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3699:24)
+    at invokeGuardedCallback (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:3733:39)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19765:15)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+[2024-11-14 10:44:04.211] [error] Error en promesa no manejada: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19753:22)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+    at renderRootSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19116:15)
+    at recoverFromConcurrentError (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18736:28)
+    at performSyncWorkOnRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18879:28)
+[2024-11-14 10:44:04.212] [error] Error en promesa no manejada: ReferenceError: api is not defined
+    at App (http://localhost:2003/src/App.tsx?t=1731591843519:63:23)
+    at renderWithHooks (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:11548:26)
+    at mountIndeterminateComponent (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:14926:21)
+    at beginWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:15914:22)
+    at beginWork$1 (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19753:22)
+    at performUnitOfWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19198:20)
+    at workLoopSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19137:13)
+    at renderRootSync (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19116:15)
+    at recoverFromConcurrentError (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18736:28)
+    at performSyncWorkOnRoot (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18879:28)
+[2024-11-14 10:44:26.720] [info]  MY INFO LOG
+[2024-11-14 10:44:27.147] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:50:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:44:27.151] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:50:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:44:27.151] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:50:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at invokePassiveEffectMountInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18324:19)
+    at invokeEffectsInDev (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19701:19)
+    at commitDoubleInvokeEffectsInDEV (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19686:15)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19503:13)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+    at flushWork (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:176:22)
+[2024-11-14 10:44:27.152] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:50:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:44:27.152] [error] Error en la interfaz: TypeError: Cannot read properties of undefined (reading 'messagesFlowHandler')
+    at http://localhost:2003/src/App.tsx:50:9
+    at commitHookEffectListMount (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:16915:34)
+    at commitPassiveMountOnFiber (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18156:19)
+    at commitPassiveMountEffects_complete (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18129:17)
+    at commitPassiveMountEffects_begin (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18119:15)
+    at commitPassiveMountEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:18109:11)
+    at flushPassiveEffectsImpl (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19490:11)
+    at flushPassiveEffects (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19447:22)
+    at http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:19328:17
+    at workLoop (http://localhost:2003/@fs/Users/agustin.gomez/Desktop/sinacofi/file-transfer-app/node_modules/.vite/deps/chunk-QT63QQJV.js?v=dcf52306:197:42)
+[2024-11-14 10:45:04.224] [info]  MY INFO LOG
+[2024-11-14 10:45:34.282] [info]  MY INFO LOG
+[2024-11-14 11:36:26.112] [info]  MY INFO LOG
+[2024-11-14 11:36:40.710] [info]  MY INFO LOG
+[2024-11-14 11:39:19.481] [info]  MY INFO LOG
+[2024-11-14 11:39:32.713] [info]  MY INFO LOG
+[2024-11-14 11:55:18.049] [info]  MY INFO LOG
+[2024-11-14 11:58:03.427] [info]  MY INFO LOG
+[2024-11-14 11:59:54.800] [info]  MY INFO LOG

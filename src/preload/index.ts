@@ -3,18 +3,7 @@ import { electronAPI } from '@electron-toolkit/preload';
 import { FileService } from './file.service';
 import MessagesService from './messages.service';
 import { InstitutionService } from './institution.service';
-// import { join } from 'path';
-import { cwd } from 'process';
-
-// const CONFIG_FILE = join(__dirname, '..', '..', '..', '..', '..', '..', 'config.json')
-//const CONFIG_FILE = join(cwd(), 'config.json');
-
-export async function getConfig() {
-  //const fileService = new FileService();
-  //const configData = await fileService.getFile(CONFIG_FILE);
-  //const config = JSON.parse(configData);
-  return [cwd(), cwd()];
-}
+// import { cwd } from 'process';
 
 async function prepareConfig() {
   const CONFIG_FILE_NAME = 'config.json';
@@ -42,6 +31,17 @@ async function prepareConfig() {
   }
 }
 
+// async function getPublicIP() {
+//   try {
+//     const response = await fetch('https://api.ipify.org/?format=json');
+//     const data = await response.json();
+//     return data.ip;
+//   } catch (error) {
+//     console.error(error);
+//     return null; // Add a return statement to handle the error case
+//   }
+// }
+
 export async function messagesFlowHandler() {
   try {
     const config = await prepareConfig();
@@ -49,8 +49,10 @@ export async function messagesFlowHandler() {
     // GET necessary data
     const fileService = new FileService();
     const institutionService = new InstitutionService();
+    // const ip = await getPublicIP();
+    const ip = '127.0.0.1';
+    debugger;
 
-    const ip = '8.8.8.8';
     const { pamsFolderPath, tamsFolderPath } = await institutionService.getInstitutionConnectionDetails(
       ip,
       config.area
@@ -91,7 +93,6 @@ export async function messagesFlowHandler() {
 // Custom APIs for renderer
 const api = {
   messagesFlowHandler,
-  getConfig,
 };
 
 // Use `contextBridge` APIs to expose Electron APIs to
@@ -110,3 +111,26 @@ if (process.contextIsolated) {
   // @ts-ignore (define in dts)
   window.api = api;
 }
+
+// async function createPamsTamsDir() {
+//   const fileService = new FileService();
+//   const pamsFolderPath = cwd() + '/pams-files';
+//   const tamsFolderPath = cwd() + '/tams-files';
+
+//   try {
+//     // Check if the directories exist
+//     const pamsDirExists = await fileService.directoryExists(pamsFolderPath);
+//     const tamsDirExists = await fileService.directoryExists(tamsFolderPath);
+
+//     if (!pamsDirExists) {
+//       await fileService.createDirectory({ dirPath: pamsFolderPath });
+//     }
+
+//     if (!tamsDirExists) {
+//       await fileService.createDirectory({ dirPath: tamsFolderPath });
+//     }
+//   } catch (error) {
+//     console.error(error);
+//     return null; // Add a return statement to handle the error case
+//   }
+// }
