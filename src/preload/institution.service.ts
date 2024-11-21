@@ -58,11 +58,13 @@ export class InstitutionService {
 
   async getInstitutionConnectionDetails(ip: string, area: number) {
     console.log(ip, area);
-    const response = await axios.get(`${CONFIG.ADMIN_BACK}/api/area?id=${area}`, {
+    const response = await axios.get(`${CONFIG.ADMIN_BACK}/api/area`, {
       headers: CONFIG.HEADERS,
     });
+    const data = response.data;
 
-    const areaDetails = response.data[0];
+    const areaDetails = data.find((areaDetail) => areaDetail.id === area);
+
     debugger;
     return {
       pamsFolderPath: path.join(areaDetails.pathPams),

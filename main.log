@@ -1984,3 +1984,82 @@
 [2024-11-14 11:55:18.049] [info]  MY INFO LOG
 [2024-11-14 11:58:03.427] [info]  MY INFO LOG
 [2024-11-14 11:59:54.800] [info]  MY INFO LOG
+[2024-11-18 14:59:30.801] [info]  MY INFO LOG
+[2024-11-18 14:59:31.359] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 14:59:31.360] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 14:59:31.360] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 14:59:31.360] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:17:57.079] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:17:57.080] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:17:57.080] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:17:57.080] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:35.550] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:35.551] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:35.551] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:35.551] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:59.334] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:59.335] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:59.336] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:24:59.336] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:37.890] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:37.891] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:37.903] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:37.903] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:53.900] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:53.901] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:53.901] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:28:53.901] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:31:00.607] [info]  MY INFO LOG
+[2024-11-18 15:31:06.563] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:31:06.564] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:31:39.730] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-18 15:31:39.731] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 15:59:42.504] [info]  MY INFO LOG
+[2024-11-20 15:59:43.268] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 15:59:43.270] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 15:59:43.396] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 15:59:43.396] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 16:00:52.825] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 16:00:52.826] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 16:00:52.827] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 16:00:52.827] [error] Error en promesa no manejada: TypeError: Cannot read properties of null (reading 'map')
+    at http://localhost:2002/src/App.tsx:50:56
+[2024-11-20 16:36:16.093] [info]  MY INFO LOG
+[2024-11-20 16:53:21.460] [info]  MY INFO LOG
+[2024-11-20 17:21:15.105] [info]  MY INFO LOG
+[2024-11-20 17:21:43.424] [info]  MY INFO LOG
